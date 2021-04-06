@@ -5,6 +5,16 @@ Experimental support audio export as video file via [uNvEncoder].
 
 Spectrogram videos are useful for playing effects with music files and it works even if LASP unsupported environment. (i.e. Mobile)
 
+### How to convert video files
+At first, make sure the export has finished. (it needs much times after application quit(stop editor))
+
+I recommend ffmpeg for convert H.264 to mov(mp4).
+
+It needs change scene or close unity when you convert a file and permission dinied.
+
+### music
+https://dova-s.jp/bgm/play6955.html
+
 [uNvEncoder]: https://github.com/hecomi/uNvEncoder
 
 ### About LaspVFX
