@@ -1,8 +1,9 @@
 LaspVfx (with Video Export)
 -------
 ### The purpose of this fork
-Experimental support audio export as video file via [uNvEncoder]
-Spectrogram videos are useful for playing effects with music files and it works even if LASP unsupported environment (i.e. Mobile)
+Experimental support audio export as video file via [uNvEncoder].
+
+Spectrogram videos are useful for playing effects with music files and it works even if LASP unsupported environment. (i.e. Mobile)
 
 [uNvEncoder]: https://github.com/hecomi/uNvEncoder
 
